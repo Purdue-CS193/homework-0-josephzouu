@@ -3,7 +3,7 @@
 # Joseph Zou's First CS193 Homework
 - the teachers
 - the funny lectures
-- cool taylor swift questions
+- Cool Taylor Swift questions
 
 ### Markdown
 
