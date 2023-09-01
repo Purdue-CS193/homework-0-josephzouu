@@ -1,7 +1,7 @@
 
 
 # Joseph Zou's First CS193 Homework
-- the teachers <3.<3
+- the teachers
 - the funny lectures
 - cool taylor swift questions
 
